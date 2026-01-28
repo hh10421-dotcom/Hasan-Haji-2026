@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All about the Wooly Mammoth</title>
-  <img src="https://i.natgeofe.com/n/d0d83ff9-0b6a-4ea3-b35d-4e991849cd2a/wooly-mammoth-nationalgeographic_122644.jpg">
+  
+<style>
+    .small-img { width: 200px; height: auto; }
+</style>
+<img src="https://i.natgeofe.com/n/d0d83ff9-0b6a-4ea3-b35d-4e991849cd2a/wooly-mammoth-nationalgeographic_122644.jpg">
 
     <h3>How did the species die out?</h3>
    
