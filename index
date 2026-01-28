@@ -65,7 +65,11 @@ survived there for thousands of years after mainland populations went extinct.
 mammoths lived (until roughly 4,000 years ago).
 
 <b>habitat loss:<b>The process by which a natural habitat is rendered unable to support the species present. 
-This can occur through actual destruction, fragmentation (breaking it into smaller pieces), or degradation. 
+This can occur through actual destruction, fragmentation (breaking it into smaller pieces), or degradation.
+
+body {
+  background: lightblue url( no-repeat fixed center;
+}
 
 
 
